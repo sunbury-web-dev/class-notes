@@ -18,6 +18,7 @@ We'll start by forking this `class-notes` repository, opening up a Codespace on 
 * Create a new branch for your notes.
 * Create a new file in the `notes` directory with the name of the topic you want to take notes on. For example, if you want to take notes on git, create a file called `git.md`.
 * Add some notes to the file. You can use [markdown](https://www.markdownguide.org/) to format your notes.
+* Use `git add` to stage your changes for a commit, then use `git status` to view the current state of your project (you should see the file you just created).
 * Commit your changes and push your new branch to [GitHub](https://github.com).
 * Create a pull request to merge your branch into the `main` branch.
 * Have someone else review your pull request and resolve any feedback.
@@ -26,7 +27,12 @@ We'll start by forking this `class-notes` repository, opening up a Codespace on 
 * Celebrate! 🎉
 
 ##### Practice using git to revert changes
-* Try making another change to your notes, commit it, and push it to `origin`.
+* Try making another change to your notes
+  * Create a new branch
+  * Make a change (like adding a new file or changing an existing one)
+  * Commit it
+  * `push` it to `origin` and merge it into `main`
+* Switch back to the `main` branch on your repository and `pull` your latest change.
 * Use `git log` to see a list of your changes.
 * Revert your changes by creating a new branch and reverting the commit that you made.
 * Commit your changes and push your new branch to [GitHub](https://github.com).
