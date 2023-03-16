@@ -27,6 +27,7 @@ We'll start by forking this `class-notes` repository, opening up a Codespace on 
 
 ##### Practice using git to revert changes
 * Try making another change to your notes, commit it, and push it to `origin`.
+* Use `git log` to see a list of your changes.
 * Revert your changes by creating a new branch and reverting the commit that you made.
 * Commit your changes and push your new branch to [GitHub](https://github.com).
 * Create a pull request to merge your branch into the `main` branch.
