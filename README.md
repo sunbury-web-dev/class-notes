@@ -1,4 +1,4 @@
-# 📝 Class Notes
+# 📝 Week 2 Lab - Class Notes
 
 A repository that can be used to take class notes and also practicing git. This repository will be used for working through Week 2's lab.
 
