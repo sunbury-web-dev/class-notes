@@ -4,7 +4,7 @@ A repository that can be used to take class notes and also practicing git. This 
 
 ## Instructions
 
-Feel free to clone this repository and use git to track changes to your notes. Some things to try:
+We'll start by forking this `class-notes` repository, opening up a Codespace on your forked version and then follow the below instructions.
 
 ##### Managing files with the commandline
 * Open a terminal window and create a new directory called `test`
@@ -15,7 +15,6 @@ Feel free to clone this repository and use git to track changes to your notes. S
 * Delete the `test` directory
 
 ##### Adding a new file to the repository
-* We'll start by forking this `class-notes` repository, cloning the repository to your machine or opening up a Codespace on your forked version.
 * Create a new branch for your notes.
 * Create a new file in the `notes` directory with the name of the topic you want to take notes on. For example, if you want to take notes on git, create a file called `git.md`.
 * Add some notes to the file. You can use [markdown](https://www.markdownguide.org/) to format your notes.
