@@ -15,7 +15,7 @@ We'll start by forking this `class-notes` repository, opening up a Codespace on 
 * Delete the `test` directory
 
 ##### Adding a new file to the repository
-* Create a new branch for your notes.
+* Create a new branch for the changes you are about to make.
 * Create a new file in the `notes` directory with the name of the topic you want to take notes on. For example, if you want to take notes on git, create a file called `git.md`.
 * Add some notes to the file. You can use [markdown](https://www.markdownguide.org/) to format your notes.
 * Use `git add` to stage your changes for a commit, then use `git status` to view the current state of your project (you should see the file you just created).
